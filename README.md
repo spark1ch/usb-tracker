@@ -20,7 +20,7 @@ A simple Python GUI application that monitors USB device connections and disconn
 2. Run: `usbtracker.py`
 
 ### Ready-to-use Release:
-1. Download the latest release from [Releases page](https://github.com/spark1ch/kernel-console/releases/tag/1.0)
+1. Download the latest release from [Releases page](https://github.com/spark1ch/usb-tracker/releases/tag/1.0)
 2. Run the executable file (no installation needed)
 
 Files are automatically saved in `/reports` folder with timestamps (e.g. `usb_history_20231215_1423.txt`)
