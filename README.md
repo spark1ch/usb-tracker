@@ -26,5 +26,7 @@ A simple Python GUI application that monitors USB device connections and disconn
 Files are automatically saved in `/reports` folder with timestamps (e.g. `usb_history_20231215_1423.txt`)
 
 ## File Structure
+/reports - Auto-created folder for history exports
+main.py - Main application file
 
 > Note: On Linux/macOS, run with `sudo` for complete device information.
