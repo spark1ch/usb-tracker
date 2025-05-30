@@ -6,7 +6,6 @@ import time
 from threading import Thread
 from datetime import datetime
 
-# Ensure reports directory exists
 if not os.path.exists('reports'):
     os.makedirs('reports')
 
