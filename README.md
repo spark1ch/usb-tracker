@@ -19,7 +19,7 @@ A simple Python GUI application that monitors USB device connections and disconn
 1. Install requirements: `pip install psutil`
 2. Run: `usbtracker.py`
 
-### Using Pre-built Executable:
+### Ready-to-use Release:
 1. Download the latest release from [Releases page](https://github.com/spark1ch/kernel-console/releases/tag/1.0)
 2. Run the executable file (no installation needed)
 
